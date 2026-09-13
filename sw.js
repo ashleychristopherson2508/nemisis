@@ -1,7 +1,7 @@
 const CACHE_NAME = "nemesis-eye-v2";
 const APP_SHELL = [
     "./",
-    "./eye_pwa.html",
+    "./index.html",
     "./manifest.webmanifest",
     "./icon.svg",
     "./icon-192.svg",

@@ -2,7 +2,7 @@
   "name": "Nemesis Eye",
   "short_name": "Nemesis Eye",
   "description": "An interactive motion-responsive eye.",
-  "start_url": "./eye_pwa.html",
+  "start_url": "./",
   "scope": "./",
   "display": "fullscreen",
   "orientation": "any",
