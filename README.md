@@ -14,3 +14,8 @@ An interactive motion-responsive eye Progressive Web App.
 - Responsive fullscreen display
 
 Camera access requires HTTPS and permission from the browser.
+
+## GitHub Pages Setup
+
+In the repository, open **Settings → Pages** and set **Source** to **GitHub Actions**.
+After the workflow finishes, the app will be available at the live link above.
